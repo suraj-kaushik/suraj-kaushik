@@ -1,4 +1,4 @@
-# Suraj Kumar Kaushik
+# Suraj Kumar Kaushik 👨‍💻
 <div align ='center'>
 
   ### Aspiring ML Enthusiast | Data Science Learner | Web Developer | Problem Solver
